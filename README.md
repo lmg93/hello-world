@@ -1,2 +1,3 @@
 # hello-world
-Github tutorial respository
+
+I love tailgating and roller coasters!
